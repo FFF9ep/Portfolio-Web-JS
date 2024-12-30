@@ -26,8 +26,8 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Ai Chat App"
-              description="Java Chat App."
-              ghLink=" "
+              description="Java-powered live ai chat app for real-time communication. Features customizable UI and engaging user experience. Dive in and connect!."
+              ghLink="https://github.com/FFF9ep/Ai-Chat-App.git"
               demoLink=" "
             />
           </Col>
